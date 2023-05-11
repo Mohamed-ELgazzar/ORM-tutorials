@@ -38,6 +38,3 @@ Feel free to modify the code, add new features, or integrate it into your own pr
 
 Contributions are welcome! If you have any improvements or suggestions, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
